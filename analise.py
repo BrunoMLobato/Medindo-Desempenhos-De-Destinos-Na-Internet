@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Carregar os dados do arquivo JSON com múltiplas entradas
 data = []
-with open(r'C:\Users\yurit\OneDrive\Documentos\faculdade\trab2-redes\youtube.json') as f:
+with open(r'Medindo-Desempenhos-De-Destinos-Na-Internet\kick.json') as f:
     for line in f:
         try:
             data.append(json.loads(line))
