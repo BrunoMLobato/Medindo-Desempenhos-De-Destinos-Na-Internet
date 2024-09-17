@@ -1,0 +1,6479 @@
+[
+  {
+    "prb_id": 10555,
+    "timestamp": 1725382858,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 40.627
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725382851,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 59.51533333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725382857,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 27.462333333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725382854,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.621
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725382858,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.855999999999998
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725382851,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 14.047000000000002
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725382854,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.134999999999999
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725382863,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.115
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725383000,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.421
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725383169,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.067
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725383169,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 576.5590000000001
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725383164,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.677
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725383174,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 38.481
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725383172,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.365333333333334
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725383178,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.695333333333332
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725383178,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.183333333333332
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725383176,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.310333333333332
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725383172,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 55.73333333333333
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725383163,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.403666666666666
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725383174,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.875333333333336
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725383170,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.107
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725383171,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 33.57566666666667
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725383169,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.631
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725383165,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.112
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725383179,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.537
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725383168,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.655666666666672
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725383173,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.439333333333332
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725383166,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 8.026333333333334
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725383170,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.804000000000002
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725383178,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 33.765
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725390055,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 59.85466666666667
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725390058,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 15.966
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725390054,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.256
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725390059,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.05
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725390064,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 45.784333333333336
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725390063,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 21.959333333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725390063,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.552666666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725390061,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.399666666666665
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725390199,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.308333333333334
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725390360,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.075666666666669
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725390361,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 593.3823333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725390370,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.2236666666666665
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725390365,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.70666666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725390367,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.037999999999998
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725390371,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.264666666666669
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725390378,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.662333333333335
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725390365,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.415333333333336
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725390367,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.221000000000004
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725390376,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.511666666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725390372,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.916333333333332
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725390368,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.833666666666668
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725390371,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.52533333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725390375,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.63233333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725390375,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.23166666666667
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725390380,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.184666666666665
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725390372,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.391666666666666
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725390367,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.796
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725390376,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.111
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725390368,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.839666666666666
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725390373,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.912333333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725397256,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 52.637
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725397252,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.19633333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725397252,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.105333333333334
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725397255,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.142666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725397258,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.132333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725397263,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.574999999999996
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725397263,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 21.790000000000003
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725397264,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.553666666666667
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725397403,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.895666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725397558,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.045666666666667
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725397560,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 601.5543333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725397577,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.867999999999999
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725397577,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.88066666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725397565,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.871
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725397575,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.072666666666668
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725397573,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.387666666666666
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725397573,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.738666666666663
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725397564,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 52.80500000000001
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725397571,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.851333333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725397565,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.439
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725397569,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.072000000000001
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725397569,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 35.303
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725397571,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.586666666666666
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725397577,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.114666666666665
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725397571,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.34633333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725397576,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 49.179
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725397565,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.560333333333334
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725397576,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.047999999999999
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725397573,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.867666666666665
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725397579,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.792666666666666
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725404452,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.224333333333334
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725404451,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 17.363333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725404456,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.737
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725404454,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.700666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725404462,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 50.749
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725404462,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 51.51500000000001
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725404461,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.862333333333336
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725404462,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.350666666666665
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725404599,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.268666666666666
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725404758,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.999333333333333
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725404767,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 574.1386666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725404768,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.285333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725404765,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 42.26033333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725404775,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.392333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725404770,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.929333333333334
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725404766,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.801000000000002
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725404765,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.287666666666667
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725404766,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.949333333333335
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725404768,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 25.350666666666665
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725404770,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.543333333333331
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725404776,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 9.907666666666668
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725404775,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 34.35
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725404765,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 20.160666666666668
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725404776,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.85066666666667
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725404770,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.82266666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725404773,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 48.285666666666664
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725404769,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.341999999999999
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725404769,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.078333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725404772,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.100666666666669
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725404764,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 30.98266666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725411653,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 56.898666666666664
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725411657,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 51.52
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725411651,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.482
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725411654,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 23.520666666666667
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725411650,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.369
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725411657,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.221
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725411663,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.661
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725411660,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 14.232666666666667
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725411802,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.879666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725411960,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.089666666666668
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725411970,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 573.1940000000001
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725411964,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.338666666666666
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725411967,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.553666666666665
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725411966,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.922333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725411968,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.328666666666669
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725411976,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.208999999999998
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725411968,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.688
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725411971,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.357
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725411967,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.831666666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725411970,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.969000000000001
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725411964,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.092666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725411972,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.43533333333334
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725411977,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.735333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725411968,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.718
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725411976,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.01533333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725411973,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 48.812333333333335
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725411978,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.901
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725411974,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.055666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725411971,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.795333333333332
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725411964,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 30.145
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725418856,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 52.982
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725418858,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.40766666666667
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725418853,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 15.719000000000001
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725418854,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.289333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725418860,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 40.44266666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725418862,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.632
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725418862,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.112666666666666
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725418863,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.616333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725418996,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.416333333333334
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725419158,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.997333333333332
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725419169,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 573.0756666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725419174,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 9.587
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725419176,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.251333333333335
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725419172,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.118333333333332
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725419171,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.416666666666666
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725419175,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.511666666666668
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725419176,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.467333333333332
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725419175,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 55.59
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725419167,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.827333333333332
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725419169,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.027999999999999
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725419166,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.085333333333333
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725419178,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 33.753
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725419167,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.719333333333335
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725419178,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.723666666666663
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725419192,
+    "hops": 1,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul"
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725419170,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.875333333333334
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725419166,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.752
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725419173,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.127
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725419178,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.848333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725419173,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.098333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725426055,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 40.379333333333335
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725426052,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 51.961999999999996
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725426049,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.651666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725426052,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.799666666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725426055,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.163
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725426051,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.842666666666666
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725426051,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.955666666666666
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725426064,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 17.153333333333332
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725426200,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.455
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725426359,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.618
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725426370,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.957333333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725426371,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.5683333333333325
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725426378,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 42.34633333333334
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725426369,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.166666666666668
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725426371,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.233666666666666
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725426376,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.207666666666666
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725426369,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.084
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725426372,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 51.315333333333335
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725426366,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.754333333333335
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725426378,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.948
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725426376,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.017666666666669
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725426366,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 34.105333333333334
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725426371,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.639666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725426377,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.864
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725426377,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.98733333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725426372,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.03
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725426373,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.612333333333334
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725426373,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.111666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725426366,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.878666666666668
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725426366,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 33.921
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725433256,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 43.721666666666664
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725433258,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.977333333333334
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725433255,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 19.254
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725433249,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 14.146333333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725433252,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.843333333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725433262,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 52.258
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725433260,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.095333333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725433261,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 23.852333333333334
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725433407,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.177
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725433568,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.044000000000002
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725433572,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.5286666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725433578,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.295000000000001
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725433574,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.82366666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725433573,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.188333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725433569,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.22166666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725433571,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.738
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725433565,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.241666666666664
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725433577,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.786
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725433564,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.209000000000003
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725433578,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.572000000000001
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725433578,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.808666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725433565,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.57666666666666
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725433570,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.69
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725433578,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 28.063000000000002
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725433573,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.334666666666664
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725433574,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.778000000000002
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725433570,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.438333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725433571,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725433570,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.740666666666664
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725433567,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.484
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725440457,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 43.083333333333336
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725440454,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 56.82033333333334
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725440453,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.824
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725440455,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.387666666666664
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725440457,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.083
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725440459,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 14.135
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725440457,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 8.375
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725440461,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.388
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725440604,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.065666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725440763,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.102333333333332
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725440760,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.899
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725440771,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.283333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725440776,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.65566666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725440771,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.441333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725440770,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.349666666666666
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725440764,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.125666666666667
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725440766,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.112333333333336
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725440769,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.74266666666667
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725440774,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.158999999999995
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725440772,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.368666666666668
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725440765,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.822333333333333
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725440775,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.809
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725440766,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.592000000000002
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725440765,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.645999999999997
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725440777,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.590666666666664
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725440775,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 32.529333333333334
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725440768,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.650333333333334
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725440770,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.9926666666666675
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725440771,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.829333333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725440769,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.898666666666664
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725447657,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.176
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725447656,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 57.718999999999994
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725447649,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.86866666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725447656,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.493666666666666
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725447653,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.044666666666668
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725447650,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.656333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725447653,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.977333333333334
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725447660,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.822333333333334
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725447803,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.208
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725447959,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.0803333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725447961,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.040999999999999
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725447972,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 9.565
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725447977,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 38.281666666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725447965,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.679333333333332
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725447975,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.405000000000001
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725447975,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.787
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725447975,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.004666666666665
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725447973,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 45.71266666666667
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725447974,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.798666666666666
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725447974,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.512666666666666
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725447973,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.899666666666668
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725447966,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.568999999999996
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725447974,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.68133333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725447974,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.416666666666668
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725447983,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.00066666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725447970,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 48.41733333333334
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725447967,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.573
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725447970,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.054333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725447977,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.773000000000001
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725447970,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 34.21133333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725454853,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 44.37166666666666
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725454852,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 52.25233333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725454858,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.09566666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725454852,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.767
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725454853,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.95
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725454856,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 21.143
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725454854,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.174666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725454860,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.320333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725454998,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.744
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725455160,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.096333333333334
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725455163,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.1096666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725455172,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.300666666666667
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725455174,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.29266666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725455167,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.107999999999999
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725455171,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.802333333333332
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725455173,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.413666666666666
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725455167,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.51466666666667
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725455170,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 53.49733333333334
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725455176,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.171999999999997
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725455166,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.482999999999999
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725455172,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.898000000000001
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725455166,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 33.861666666666665
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725455174,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.154
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725455175,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.903999999999996
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725455174,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.47133333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725455169,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 32.410666666666664
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725455174,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.210666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725455164,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.979666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725455178,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.946333333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725455177,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.92133333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725462052,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 52.92033333333334
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725462057,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.206666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725462056,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.381
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725462058,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.308666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725462057,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.925666666666666
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725462050,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.570666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725462060,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.14766666666666
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725462061,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 23.66933333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725462200,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.464666666666666
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725462366,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.171999999999999
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725462373,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 864.9493333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725462369,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.153666666666667
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725462370,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.692
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725462378,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.509333333333332
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725462364,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.575666666666665
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725462366,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.039333333333332
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725462373,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.747
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725462370,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.54366666666667
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725462373,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.186999999999998
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725462369,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.012666666666666
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725462364,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.079666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725462369,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.59366666666667
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725462373,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 17.488333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725462377,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.81233333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725462373,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.705999999999996
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725462377,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 32.29666666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725462368,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.947666666666665
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725462371,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.273
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725462367,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.828333333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725462374,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 29.539666666666665
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725469259,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 54.865
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725469258,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.855666666666668
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725469253,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.55033333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725469264,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.33266666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725469261,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.70566666666667
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725469264,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 19.837333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725469263,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.354999999999999
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725469263,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.993333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725469398,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.288333333333334
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725469560,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.028666666666666
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725469562,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.6346666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725469569,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 9.579666666666666
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725469564,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 39.12733333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725469575,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.088999999999999
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725469578,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.210666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725469573,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.472333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725469571,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.62433333333333
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725469573,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 51.01766666666666
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725469576,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.30633333333334
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725469576,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.079
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725469566,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 9.936666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725469569,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.82966666666667
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725469575,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.766666666666666
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725469566,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 32.16533333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725469576,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.90033333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725469575,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.582666666666665
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725469573,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.452666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725469567,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.100333333333334
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725469567,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.754333333333335
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725469571,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.086
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725476450,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.761
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725476451,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 52.07366666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725476450,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 27.61033333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725476459,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.340666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725476458,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.907333333333334
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725476455,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.630333333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725476461,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 23.941
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725476464,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.805333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725476608,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.437
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725476768,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.106
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725476763,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 578.611
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725476766,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.6930000000000005
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725476773,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.093
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725476769,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.826333333333332
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725476769,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 25.624666666666666
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725476765,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.533666666666667
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725476771,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.264
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725476771,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.63233333333333
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725476764,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.301333333333336
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725476765,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.830666666666668
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725476767,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.816
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725476769,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.958999999999996
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725476767,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.925666666666668
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725476771,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.111333333333334
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725476774,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.96966666666666
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725476765,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 32.326
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725476774,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.108333333333334
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725476768,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.089666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725476774,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.952333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725476782,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.800333333333334
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725483650,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.047333333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725483651,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 53.321666666666665
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725483659,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.310000000000002
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725483652,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.43133333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725483657,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 23.892333333333337
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725483655,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.602
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725483653,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.767333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725483662,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.344333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725483795,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.593666666666666
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725483972,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.961999999999998
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725483961,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 573.5283333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725483966,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 9.447000000000001
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725483968,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.57366666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725483978,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.089
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725483972,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.070666666666668
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725483965,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.444333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725483977,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.243333333333336
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725483964,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.172666666666665
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725483977,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.679000000000002
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725483975,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.345333333333334
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725483966,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.118333333333332
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725483975,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 34.56933333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725483964,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 19.049666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725483975,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.101666666666663
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725483970,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.604000000000006
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725483976,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 32.272333333333336
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725483970,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.612333333333334
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725483968,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.203666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725483965,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.819333333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725483978,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.922333333333334
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725490855,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 46.727000000000004
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725490859,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 51.781666666666666
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725490854,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.52433333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725490851,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.298666666666666
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725490856,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 15.653
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725490864,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.01733333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725490861,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.338666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725490864,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.713333333333334
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725490998,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.706333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725491166,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.100666666666669
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725491161,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.907
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725491175,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.680666666666667
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725491175,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.89333333333334
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725491167,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.075333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725491170,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.987666666666668
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725491170,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.301333333333332
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725491174,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.396666666666665
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725491177,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.3565
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725491174,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 25.09566666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725491168,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa"
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725491163,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 14.140333333333333
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725491174,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 34.52733333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725491169,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.621333333333336
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725491172,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.818
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725491167,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.74766666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725491169,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 32.413666666666664
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725491167,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa"
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725491171,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.057333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725491173,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.843333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725491169,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.486333333333334
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725498055,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 95.36566666666666
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725498057,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 57.788000000000004
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725498056,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.529666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725498053,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.28833333333333
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725498057,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 21.477999999999998
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725498064,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.14
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725498063,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.871333333333332
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725498064,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.916333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725498208,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.119000000000002
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725498359,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.8299999999999
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725498370,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.061333333333332
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725498370,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 8.049333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725498372,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 39.85766666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725498366,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.975666666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725498365,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.877666666666665
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725498371,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.706000000000001
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725498376,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.289666666666665
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725498371,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 53.706500000000005
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725498365,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 24.183333333333334
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725498376,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.955333333333334
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725498367,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.832666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725498373,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 33.95333333333334
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725498364,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.594333333333335
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725498372,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 35.353
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725498376,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.29833333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725498378,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 48.58166666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725498367,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.381
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725498371,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.3806666666666665
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725498368,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.783999999999999
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725498364,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.839
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725505253,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 41.571666666666665
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725505253,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.659666666666666
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725505259,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.76
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725505259,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.636
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725505253,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 15.673
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725505251,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 14.119666666666665
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725505264,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 55.56633333333334
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725505264,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.694333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725505395,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.173
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725505572,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.095666666666666
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725505567,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.741
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725505568,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.645333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725505568,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.92466666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725505569,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.685
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725505565,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.306666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725505569,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.717999999999998
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725505575,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.137666666666664
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725505575,
+    "hops": 19,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 52.088499999999996
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725505568,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.847333333333335
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725505567,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.573666666666668
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725505576,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.158666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725505576,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.552
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725505565,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.698666666666668
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725505578,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.974666666666664
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725505574,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 43.193333333333335
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725505574,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.393666666666665
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725505574,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.191
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725505571,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.773666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725505566,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.775333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725505578,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 34.39366666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725512459,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 52.227666666666664
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725512451,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.965000000000003
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725512456,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.718
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725512451,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 14.072333333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725512457,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.967
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725512463,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.30066666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725512460,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.043666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725512463,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.53533333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725512595,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.250333333333332
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725512765,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.065
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725512763,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 574.2493333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725512767,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.623
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725512769,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 42.32
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725512764,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.106333333333334
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725512765,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.542000000000002
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725512778,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.765
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725512765,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.558666666666667
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725512763,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.306333333333335
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725512767,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 21.469000000000005
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725512764,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.527000000000001
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725512775,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.140666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725512773,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 36.76766666666666
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725512769,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 17.96366666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725512764,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.768
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725512769,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 43.26566666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725512765,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 48.702333333333335
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725512774,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.372666666666666
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725512777,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.929333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725512776,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.77533333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725512777,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 30.104333333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725519650,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 50.584333333333326
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725519659,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.736
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725519656,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.779
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725519654,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.16333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725519650,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.992666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725519654,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.459666666666665
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725519660,
+    "hops": 13,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 60.39066666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725519663,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.909333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725519798,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.905333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725519961,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.107
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725519963,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.5853333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725519970,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.251
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725519965,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 42.15366666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725519965,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.839666666666668
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725519976,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.916333333333334
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725519970,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.453000000000001
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725519965,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.92533333333333
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725519974,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 51.336999999999996
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725519977,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 24.06566666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725519966,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 13.005666666666668
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725519971,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.783000000000001
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725519970,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 31.597333333333335
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725519974,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 17.305333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725519966,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.874333333333336
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725519970,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.32233333333334
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725519971,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 30.817666666666668
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725519966,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.509666666666666
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725519968,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.984666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725519967,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.824333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725519967,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 29.887
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725526856,
+    "hops": 13,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 60.399
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725526853,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.696333333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725526862,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 54.39533333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725526863,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 21.792333333333332
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725526864,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.590666666666664
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725526864,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.162333333333333
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725526861,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.209333333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725526861,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 8.248333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725527006,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.001666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725527170,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.119
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725527167,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.3043333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725527165,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.650333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725527165,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.873
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725527171,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.530666666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725527166,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.646
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725527168,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.808
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725527173,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.028000000000002
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725527167,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.1715
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725527171,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.171666666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725527166,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.144333333333334
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725527170,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.102
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725527177,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 30.963333333333335
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725527164,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.732333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725527178,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.944333333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725527172,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.72266666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725527176,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.80033333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725527171,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.328333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725527175,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.992999999999999
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725527174,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.880666666666668
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725527166,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 29.871333333333336
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725534052,
+    "hops": 13,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 60.18066666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725534057,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 52.22666666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725534052,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.516333333333336
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725534054,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.952333333333332
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725534050,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 21.399
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725534055,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.051666666666668
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725534063,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.69633333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725534064,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 8.322666666666668
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725534198,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.709999999999999
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725534365,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.115
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725534366,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 573.0503333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725534366,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 9.577
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725534371,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.97166666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725534364,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.783000000000001
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725534375,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.884
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725534365,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.757333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725534376,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.336
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725534374,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.572333333333326
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725534365,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.759333333333334
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725534375,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.902666666666667
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725534370,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.329666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725534370,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 30.501333333333335
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725534373,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 19.215666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725534368,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.775000000000002
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725534379,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 43.047
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725534374,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 49.363
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725534376,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.987
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725534367,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.271
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725534364,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.813
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725534373,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 33.053333333333335
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725541256,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 38.85433333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725541251,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 54.31366666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725541256,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 21.688999999999997
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725541255,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.22066666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725541251,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.441666666666666
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725541256,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 16.29433333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725541251,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.908666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725541263,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.476666666666667
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725541407,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.408666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725541566,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.100333333333333
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725541572,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.1303333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725541574,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.321666666666666
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725541571,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.836666666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725541574,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.984666666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725541571,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.302999999999999
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725541564,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.874666666666664
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725541571,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.099999999999998
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725541572,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.873333333333335
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725541570,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.827333333333332
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725541575,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.446666666666667
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725541565,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.554666666666668
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725541578,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 30.650333333333332
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725541570,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.948666666666668
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725541573,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 28.001666666666665
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725541574,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.54433333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725541577,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 30.569000000000003
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725541566,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.032666666666666
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725541578,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.073
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725541565,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.761000000000001
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725541572,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.944999999999997
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725548457,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.85066666666666
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725548459,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.500333333333334
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725548454,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 21.451000000000004
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725548451,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.097
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725548450,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 8.376666666666665
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725548463,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 51.75266666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725548463,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.814666666666664
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725548464,
+    "hops": 17,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 23.739666666666665
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725548597,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.424333333333331
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725548767,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 12.100000000000001
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725548764,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.0916666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725548771,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.399
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725548772,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.092666666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725548766,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.577333333333334
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725548777,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.941
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725548774,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.543333333333335
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725548774,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.637
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725548771,
+    "hops": 18,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 51.8865
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725548774,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 21.465999999999998
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725548767,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.351666666666667
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725548777,
+    "hops": 7,
+    "destination": "www.youtube.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.586666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725548775,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 34.155
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725548764,
+    "hops": 11,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 18.635666666666665
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725548776,
+    "hops": 10,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.966333333333335
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725548767,
+    "hops": 14,
+    "destination": "www.youtube.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 43.842999999999996
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725548765,
+    "hops": 15,
+    "destination": "www.youtube.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 31.082333333333334
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725548771,
+    "hops": 12,
+    "destination": "www.youtube.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.441666666666665
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725548767,
+    "hops": 8,
+    "destination": "www.youtube.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.175
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725548769,
+    "hops": 9,
+    "destination": "www.youtube.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.891666666666666
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725548776,
+    "hops": 16,
+    "destination": "www.youtube.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.11433333333334
+  }
+]

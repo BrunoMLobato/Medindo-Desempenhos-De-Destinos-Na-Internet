@@ -1,0 +1,6481 @@
+[
+  {
+    "prb_id": 10555,
+    "timestamp": 1725383070,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 45.498333333333335
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725383066,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 48.29533333333334
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725383074,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.59166666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725383063,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.794
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725383073,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.389
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725383074,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.427333333333332
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725383069,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.833666666666668
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725383064,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.361999999999999
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725383145,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.315333333333333
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725383147,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 573.5276666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725383153,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.794999999999999
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725383153,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 81.044
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725383147,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.816333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725383151,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.570666666666668
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725383143,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.647
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725383148,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.72066666666667
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725383144,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 39.66566666666666
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725383149,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 47.31766666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725383155,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.219
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725383148,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.870666666666665
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725383156,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.642
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725383154,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.6123333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725383151,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.037666666666667
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725383155,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.23233333333334
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725383153,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 25.477999999999998
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725383145,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 1.9806666666666668
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725383151,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.333000000000001
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725383151,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.673333333333332
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725383148,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.579666666666668
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725383186,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.11
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725390266,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 41.77766666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725390263,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 50.012
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725390267,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 21.832666666666665
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725390264,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.096999999999998
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725390269,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.587666666666667
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725390275,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.721000000000002
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725390261,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.054
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725390265,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.958000000000001
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725390336,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.271666666666667
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725390344,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 618.2313333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725390342,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.785666666666667
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725390348,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 82.77633333333334
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725390343,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.770666666666665
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725390343,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.056
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725390350,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.732333333333335
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725390346,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.788
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725390346,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 39.787
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725390349,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 45.526666666666664
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725390349,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1106666666666665
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725390354,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.748
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725390353,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.697999999999997
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725390347,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.6473333333333335
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725390354,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.667
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725390350,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 43.21633333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725390348,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 70.78933333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725390353,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.0923333333333334
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725390356,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.325
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725390354,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.616666666666667
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725390352,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.804666666666666
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725390386,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.973666666666666
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725397463,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.047666666666665
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725397463,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 48.36733333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725397475,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.704666666666668
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725397462,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.31533333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725397467,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.645
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725397470,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.818666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725397472,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.822000000000001
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725397465,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.116
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725397539,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.342333333333334
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725397545,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 601.6076666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725397549,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 8.964333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725397553,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 14.949333333333334
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725397548,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.9955
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725397549,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.042333333333334
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725397550,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.956000000000001
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725397543,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.863
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725397550,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 43.795
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725397555,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 46.39033333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725397544,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.2620000000000005
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725397541,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.548333333333334
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725397556,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.585666666666665
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725397550,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.439
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725397547,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.72866666666667
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725397550,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.70533333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725397552,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 71.29666666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725397543,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.2176666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725397556,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.343
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725397549,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.096333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725397548,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.521666666666665
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725397594,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.962666666666665
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725404668,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 85.76866666666666
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725404672,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 67.59233333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725404663,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.435666666666666
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725404662,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.719333333333335
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725404676,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.066666666666666
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725404676,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.969333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725404665,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.192666666666668
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725404669,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.311
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725404739,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.36
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725404736,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 571.0046666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725404754,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.7459999999999996
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725404741,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 68.456
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725404746,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.694333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725404748,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.677666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725404754,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.529333333333334
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725404753,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.81233333333333
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725404756,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 34.77066666666667
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725404742,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 49.147333333333336
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725404742,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.004
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725404752,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.744333333333335
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725404756,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.673666666666666
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725404755,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.198
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725404749,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.732
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725404747,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.987
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725404747,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 70.80366666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725404753,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 1.9866666666666666
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725404749,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.395666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725404743,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.575666666666665
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725404751,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.40733333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725404790,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.999333333333334
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725411865,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 41.702999999999996
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725411871,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 45.209
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725411875,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.75933333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725411875,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 30.988666666666663
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725411865,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.427000000000003
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725411868,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.511666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725411873,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.611666666666666
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725411876,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.742333333333334
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725411934,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.41
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725411941,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 570.5986666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725411949,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.68
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725411949,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 83.128
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725411952,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.858666666666666
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725411947,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.511000000000001
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725411942,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.26
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725411949,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.801
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725411949,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 52.806999999999995
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725411955,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 49.01733333333334
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725411955,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.5063333333333335
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725411951,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.581666666666665
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725411955,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.657666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725411946,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.4553333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725411952,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.055333333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725411953,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.480666666666664
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725411952,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 90.782
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725411946,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.220333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725411950,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.411666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725411947,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.041333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725411955,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.11933333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725411989,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.203666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725419071,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.246
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725419061,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 51.50933333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725419068,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.10766666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725419062,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.555666666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725419062,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.397333333333336
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725419075,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.329333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725419071,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.734333333333332
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725419076,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.766333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725419137,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.356666666666666
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725419138,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.6876666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725419145,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.796
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725419150,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 83.70800000000001
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725419153,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.868666666666664
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725419154,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.665666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725419148,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.719000000000001
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725419145,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.288666666666668
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725419147,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 40.05766666666667
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725419151,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 51.42066666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725419144,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1256666666666666
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725419147,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.574666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725419142,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.922666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725419154,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.3553333333333337
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725419149,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 29.054
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725419149,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 94.85700000000001
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725419147,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.034
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725419153,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.313
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725419145,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.016333333333336
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725419152,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 29.627
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725419162,
+    "hops": 1,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul"
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725419182,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.97
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725426266,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.169666666666664
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725426262,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 51.47666666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725426265,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 22.40433333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725426268,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.75833333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725426273,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.430333333333333
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725426265,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.273333333333332
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725426267,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.470999999999998
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725426264,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 15.461333333333334
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725426344,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.33866666666667
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725426340,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.6956666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725426345,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.812333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725426344,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 83.38833333333334
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725426345,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.402333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725426346,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.089333333333334
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725426356,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.912333333333335
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725426355,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.280666666666672
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725426348,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 57.7
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725426347,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 49.18066666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725426356,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1940000000000004
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725426343,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.719666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725426352,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.689666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725426352,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.15
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725426349,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.066999999999997
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725426358,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 43.19433333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725426349,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 90.98133333333334
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725426344,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1296666666666666
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725426342,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.277666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725426346,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.615666666666668
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725426356,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.534000000000002
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725426384,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.081666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725433468,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.78133333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725433468,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 49.233666666666664
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725433470,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.567666666666668
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725433476,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.150666666666666
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725433465,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.294333333333338
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725433475,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.267333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725433465,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.762666666666666
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725433471,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.658
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725433546,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.228
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725433538,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.3976666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725433551,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.728333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725433550,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 82.93466666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725433553,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.623333333333335
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725433542,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.511666666666668
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725433547,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.932
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725433545,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.837333333333333
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725433550,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 51.69
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725433555,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 47.163666666666664
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725433556,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.4043333333333337
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725433546,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.368
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725433556,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.418
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725433554,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.7533333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725433552,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.611
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725433551,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.37199999999999
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725433554,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 91.04833333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725433548,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.109
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725433548,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.249666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725433544,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.202333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725433545,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.689333333333334
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725433589,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.993
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725440662,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.87366666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725440663,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 49.796
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725440674,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.525333333333332
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725440672,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.046666666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725440670,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.320000000000004
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725440664,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.471333333333334
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725440661,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.698333333333332
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725440668,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.731999999999999
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725440736,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.256333333333336
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725440736,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.3033333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725440750,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.746333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725440749,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 83.77
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725440742,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.61
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725440742,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.656333333333334
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725440747,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.012
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725440754,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.383
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725440747,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 53.464666666666666
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725440753,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 48.73499999999999
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725440752,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1726666666666667
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725440755,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.797000000000002
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725440750,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.661666666666665
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725440750,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.2756666666666665
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725440756,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.013
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725440745,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 41.385666666666665
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725440743,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.037666666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725440748,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 1.9893333333333334
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725440748,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.268
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725440743,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.579666666666668
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725440752,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.726
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725440791,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.173666666666668
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725447868,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.20033333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725447876,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 47.83733333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725447875,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.347333333333335
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725447867,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.831
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725447870,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.343999999999998
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725447875,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.063
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725447876,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.726333333333335
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725447862,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.221
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725447937,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.243
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725447937,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.139
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725447946,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.893
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725447949,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 82.90633333333334
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725447953,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.700333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725447947,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.730333333333334
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725447951,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.926666666666668
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725447944,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.204666666666668
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725447947,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 38.553
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725447954,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 45.184
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725447942,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 1.9920000000000002
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725447955,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.617333333333335
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725447950,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.785333333333334
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725447943,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.2753333333333337
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725447952,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 28.982333333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725447955,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.163
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725447954,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.0586666666666664
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725447944,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.285333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725447955,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.047666666666666
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725447946,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.80966666666667
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725447960,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.6
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725447989,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.031666666666666
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725455062,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.053666666666665
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725455067,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 48.42166666666666
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725455063,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.773
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725455071,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.638666666666666
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725455070,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.438000000000002
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725455067,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 11.288666666666666
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725455074,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.976666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725455067,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.802
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725455146,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.300000000000002
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725455143,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.1003333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725455143,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.851
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725455148,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 83.42899999999999
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725455151,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.764666666666665
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725455146,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.649000000000001
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725455154,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.403666666666666
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725455152,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.607333333333333
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725455154,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 44.786
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725455142,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 47.23533333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725455151,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.2163333333333335
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725455155,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.766666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725455149,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 19.39033333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725455146,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.8166666666666664
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725455143,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.126666666666665
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725455156,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.364000000000004
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725455156,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 70.86566666666668
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725455147,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 1.8390000000000002
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725455153,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.102333333333334
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725455149,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.693333333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725455150,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.798666666666666
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725455185,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.957333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725462275,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 41.29833333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725462268,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 46.83166666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725462275,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.625333333333334
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725462273,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.045
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725462266,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.991666666666664
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725462269,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.950333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725462273,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.861333333333334
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725462266,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.565666666666666
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725462346,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.306666666666667
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725462336,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.2593333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725462345,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.8053333333333335
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725462348,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 82.866
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725462344,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.741666666666665
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725462341,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.982
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725462351,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.466666666666667
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725462351,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.114
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725462352,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 40.00233333333333
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725462348,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 47.32933333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725462353,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.3843333333333336
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725462351,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.716333333333333
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725462356,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.688333333333336
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725462348,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.6123333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725462342,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 28.028666666666666
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725462358,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.30433333333334
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725462347,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 70.66866666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725462343,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.172
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725462346,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.151666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725462344,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.661000000000001
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725462352,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.891333333333336
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725462388,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.082
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725469468,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 47.501000000000005
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725469475,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 47.41966666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725469476,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.94033333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725469467,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.51
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725469471,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.258
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725469462,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.706000000000001
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725469472,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.738999999999999
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725469465,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 34.95166666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725469536,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.757333333333333
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725469538,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.063
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725469549,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.889
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725469556,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 83.411
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725469550,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.888333333333334
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725469544,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.090666666666666
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725469551,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.816
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725469549,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.001333333333335
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725469549,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 53.692
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725469556,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 47.797333333333334
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725469555,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.334
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725469556,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.486666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725469549,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.987333333333336
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725469555,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.679
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725469542,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.519000000000002
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725469544,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 41.71633333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725469549,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.132
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725469556,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.0740000000000003
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725469550,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.176333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725469545,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.716666666666667
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725469558,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.03333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725469593,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.272666666666668
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725476673,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 40.22833333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725476676,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 49.276666666666664
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725476667,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.86566666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725476663,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.789666666666665
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725476664,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.30333333333333
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725476662,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.005333333333335
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725476667,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.713999999999999
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725476667,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 8.539666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725476734,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.715000000000002
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725476740,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.291
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725476750,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.855
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725476748,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 13.407333333333334
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725476745,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.689
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725476748,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 23.764
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725476750,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.081999999999999
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725476752,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.266666666666666
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725476745,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 38.97566666666666
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725476749,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 45.49033333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725476750,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1039999999999996
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725476742,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.884666666666668
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725476743,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.55333333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725476747,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.945
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725476744,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.143333333333334
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725476758,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 41.373
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725476751,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 70.80333333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725476755,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.098666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725476750,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.239
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725476755,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.15
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725476745,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.014
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725476790,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.120666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725483867,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.656333333333336
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725483862,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 49.047
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725483876,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.713333333333335
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725483871,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.88533333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725483866,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.33666666666667
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725483874,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.864666666666666
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725483868,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.710666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725483872,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.631666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725483940,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 26.578666666666663
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725483940,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.8190000000001
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725483946,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.867333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725483954,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 82.868
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725483944,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 10.183333333333332
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725483945,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.640666666666666
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725483947,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.796000000000001
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725483948,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.302999999999997
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725483943,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 41.192
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725483950,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 48.70333333333334
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725483947,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1506666666666665
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725483950,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.976333333333335
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725483953,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.67233333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725483942,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.623666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725483948,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.810666666666666
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725483949,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 41.547999999999995
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725483942,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.453333333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725483951,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1153333333333335
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725483950,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.355666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725483943,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.555
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725483957,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.88333333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725483993,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.020666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725491075,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 43.56633333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725491061,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 47.373
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725491064,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.754666666666665
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725491065,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.496
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725491069,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.326666666666668
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725491076,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.187666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725491075,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.772333333333334
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725491071,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.677
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725491146,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 26.551333333333332
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725491143,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.422
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725491153,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.795000000000001
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725491141,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 15.787
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725491150,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.678333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725491147,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.970999999999998
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725491146,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.746333333333334
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725491146,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.468333333333334
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725491154,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 55.961333333333336
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725491151,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 47.99066666666666
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725491145,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.3030000000000004
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725491144,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.698
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725491146,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.710666666666665
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725491149,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.313333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725491156,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.395333333333337
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725491147,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.239666666666665
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725491154,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 25.749
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725491155,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.037666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725491147,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.313666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725491149,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.610333333333335
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725491149,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.473
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725491187,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.292333333333334
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725498270,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 58.71233333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725498274,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 48.91766666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725498267,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.063666666666666
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725498281,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 28.69366666666666
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725498276,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.431
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725498264,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.186
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725498268,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.64
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725498275,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.964333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725498342,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 26.64533333333333
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725498345,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.46
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725498342,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.8309999999999995
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725498342,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 82.94599999999998
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725498344,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.847
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725498348,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.074
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725498346,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.908000000000001
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725498346,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.502
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725498346,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 39.75966666666667
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725498341,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 48.67666666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725498348,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.3736666666666664
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725498349,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.604666666666665
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725498345,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.64333333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725498352,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.0606666666666666
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725498355,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.071
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725498352,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.943333333333335
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725498354,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.21966666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725498348,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 1.8833333333333335
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725498356,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.511333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725498349,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.187
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725498355,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.830000000000002
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725498389,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.119333333333334
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725505462,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 48.72299999999999
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725505463,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 48.40899999999999
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725505462,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.36766666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725505469,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.212333333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725505473,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.536666666666665
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725505470,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725505476,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.61
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725505463,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.307666666666666
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725505544,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.433000000000003
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725505542,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.6883333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725505548,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.826999999999999
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725505547,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 14.464333333333334
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725505550,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.700666666666665
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725505541,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.562333333333333
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725505549,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.813666666666668
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725505547,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.961333333333332
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725505548,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 55.30433333333334
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725505546,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 45.05266666666666
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725505544,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1813333333333333
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725505551,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.583
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725505545,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.730666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725505546,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 5.714666666666666
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725505544,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.814000000000004
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725505552,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.662
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725505542,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.332666666666668
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725505542,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.057333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725505544,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.236999999999999
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725505542,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.280333333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725505545,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.316000000000003
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725505585,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.944666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725512663,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 41.742
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725512663,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 49.468333333333334
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725512665,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 26.66433333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725512678,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.826666666666668
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725512676,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.405
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725512672,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.910333333333334
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725512666,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.428666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725512676,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.223
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725512739,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.272333333333334
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725512742,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 585.0266666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725512746,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.762333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725512744,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 83.581
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725512745,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.798333333333332
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725512745,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 16.064
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725512751,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.828666666666665
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725512744,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.291666666666668
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725512745,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 56.27433333333334
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725512747,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 49.187333333333335
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725512751,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.052
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725512752,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.620666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725512752,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.611666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725512743,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 4.251333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725512751,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.456999999999997
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725512748,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.729000000000006
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725512748,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.122000000000003
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725512743,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.146333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725512745,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.212666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725512755,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.969333333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725512755,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.689999999999998
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725512782,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.120666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725519863,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 56.397333333333336
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725519879,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 47.848333333333336
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725519867,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.372
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725519876,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.273
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725519865,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.356666666666666
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725519873,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.560333333333334
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725519869,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.956333333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725519869,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.662
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725519936,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.272666666666666
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725519945,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.3816666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725519945,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.783333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725519945,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 14.825333333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725519951,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.684
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725519941,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.090000000000002
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725519955,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.39
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725519950,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.498666666666665
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725519955,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 41.483
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725519948,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 45.190666666666665
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725519954,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.015333333333334
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725519950,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.585666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725519955,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.741
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725519948,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.827666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725519947,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.519666666666666
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725519951,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.70966666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725519943,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.179000000000002
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725519945,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.070666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725519951,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.184333333333334
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725519945,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.001
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725519959,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.745666666666665
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725519989,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.979666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725527068,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 56.42733333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725527070,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 50.17433333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725527065,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.787666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725527068,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.579666666666668
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725527068,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.281000000000002
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725527063,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.067
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725527068,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.615
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725527076,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.572666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725527144,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.222999999999999
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725527147,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 571.7756666666668
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725527150,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.802
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725527152,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 42.19433333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725527143,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.556666666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725527149,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.565666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725527154,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.811
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725527145,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.839333333333332
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725527150,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 39.283
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725527151,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 49.861
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725527152,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.3560000000000003
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725527151,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.536666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725527142,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.488000000000003
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725527148,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.3663333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725527147,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.361666666666668
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725527155,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.18699999999999
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725527146,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 26.107333333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725527143,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 1.8756666666666666
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725527156,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.095666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725527155,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.642000000000001
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725527156,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.474666666666668
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725527189,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.949
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725534263,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 59.06633333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725534264,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 46.425666666666665
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725534268,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.96166666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725534277,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.668666666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725534276,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.204333333333334
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725534272,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 13.098333333333334
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725534271,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.720333333333334
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725534264,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.729333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725534338,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.337666666666667
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725534343,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 569.181
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725534347,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.8806666666666665
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725534345,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 42.101333333333336
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725534346,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.789
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725534344,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.916333333333334
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725534353,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.362666666666668
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725534352,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.036666666666665
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725534344,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 52.67966666666666
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725534351,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 46.49666666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725534346,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.162
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725534348,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.860666666666665
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725534346,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.709
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725534342,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.5853333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725534343,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.157666666666668
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725534354,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 43.04866666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725534344,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 86.31533333333334
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725534343,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1056666666666666
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725534343,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.166666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725534345,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 10.969000000000001
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725534343,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.572666666666663
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725534394,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.959
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725541475,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 41.946999999999996
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725541475,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 49.541999999999994
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725541465,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.729666666666663
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725541479,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.88233333333333
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725541476,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.433000000000003
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725541475,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.658666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725541467,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.626666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725541476,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.267666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725541538,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.290999999999999
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725541546,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 597.6273333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725541552,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.882000000000001
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725541542,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 15.106
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725541554,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.653
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725541548,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.491333333333332
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725541554,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.79
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725541554,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.452333333333332
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725541550,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 54.2755
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725541544,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 45.52166666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725541551,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.233333333333333
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725541543,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.049666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725541545,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.736666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725541553,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.922333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725541546,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.185333333333332
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725541554,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 70.77333333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725541553,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.073
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725541543,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.056
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725541555,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.191666666666665
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725541542,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.96966666666667
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725541561,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.784333333333336
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725541589,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.910666666666666
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725548670,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.99533333333333
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725548675,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 48.415333333333336
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725548673,
+    "hops": 11,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 27.586333333333332
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725548671,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.016000000000002
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725548674,
+    "hops": 9,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.512666666666664
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725548670,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.982666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725548674,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.594333333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725548662,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.54
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725548748,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.319
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725548741,
+    "hops": 12,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 584.582
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725548744,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.850666666666666
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725548755,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 13.106
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725548748,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 13.776333333333334
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725548756,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.002
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725548747,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.692
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725548754,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.653000000000002
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725548752,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 58.238
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725548749,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.04933333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725548745,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.1166666666666667
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725548751,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.041000000000002
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725548753,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 18.58966666666667
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725548749,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 3.4073333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725548749,
+    "hops": 10,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.045333333333332
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725548747,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.371
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725548746,
+    "hops": 13,
+    "destination": "www.kick.com",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 70.778
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725548755,
+    "hops": 5,
+    "destination": "www.kick.com",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.109
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725548756,
+    "hops": 6,
+    "destination": "www.kick.com",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.254666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725548744,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 11.679666666666668
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725548747,
+    "hops": 8,
+    "destination": "www.kick.com",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.736333333333334
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725548782,
+    "hops": 7,
+    "destination": "www.kick.com",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.970666666666668
+  }
+]

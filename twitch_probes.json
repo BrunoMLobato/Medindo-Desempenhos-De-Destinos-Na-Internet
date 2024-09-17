@@ -1,0 +1,6478 @@
+[
+  {
+    "prb_id": 7086,
+    "timestamp": 1725382800,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.645
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725382942,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 40.544000000000004
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725382943,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 41.30866666666666
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725382943,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 27.858666666666664
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725382936,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.161666666666665
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725382939,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.416333333333338
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725382937,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.888666666666666
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725382938,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.201333333333332
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725382948,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.053333333333332
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725383014,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.01033333333333
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725383005,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 563.8593333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725383130,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.477333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725383129,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 69.08766666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725383128,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.619666666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725383142,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.543999999999999
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725383137,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.367333333333335
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725383131,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.736666666666668
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725383135,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.09033333333334
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725383140,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.858666666666664
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725383135,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.881333333333334
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725383134,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.151333333333334
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725383137,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.711666666666666
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725383140,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.003
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725383142,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.52333333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725383139,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.03266666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725383134,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.06066666666666
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725383134,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.4916666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725383136,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.618333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725383137,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.557666666666666
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725383140,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.57366666666667
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725390005,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.4623333333333335
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725390135,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 43.556999999999995
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725390140,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 41.971666666666664
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725390145,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.27633333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725390145,
+    "hops": 2,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte"
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725390138,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.992
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725390140,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.480666666666668
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725390144,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.275666666666666
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725390135,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.531666666666666
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725390206,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.96566666666667
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725390206,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 599.8465
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725390337,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.579999999999999
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725390335,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 68.69866666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725390335,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.697666666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725390337,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.683666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725390340,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.588333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725390338,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.465
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725390336,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.76733333333333
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725390341,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 24.18733333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725390332,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 7.018999999999999
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725390342,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 17.701
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725390339,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.598333333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725390329,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.618
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725390334,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.597333333333335
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725390338,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.05766666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725390340,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.08433333333334
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725390332,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.692333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725390329,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.385333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725390341,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.396333333333335
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725390339,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.06633333333334
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725397203,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.5576666666666668
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725397347,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.019666666666666
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725397344,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 41.12766666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725397348,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.826999999999998
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725397337,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.435
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725397338,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.615
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725397344,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.659
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725397347,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.053333333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725397340,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.704666666666665
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725397413,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.893
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725397414,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 562.6966666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725397539,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 8.800333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725397530,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 71.19033333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725397539,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.836000000000002
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725397529,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.977666666666666
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725397528,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.573333333333332
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725397532,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.085333333333335
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725397539,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.0975
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725397540,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.895333333333337
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725397527,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 7.162
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725397539,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.102666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725397531,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.789666666666665
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725397530,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.803666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725397539,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.976333333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725397543,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.31166666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725397528,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 49.825666666666656
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725397536,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.6456666666666666
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725397532,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.318333333333334
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725397540,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.403666666666666
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725397528,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.25066666666667
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725404404,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.407
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725404546,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 230.19533333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725404545,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 37.583999999999996
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725404539,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.213333333333335
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725404548,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.088666666666665
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725404546,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.654
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725404548,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.160333333333334
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725404545,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.577
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725404544,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.216000000000001
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725404610,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.114
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725404609,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 564.3713333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725404732,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.397666666666666
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725404728,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 84.61633333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725404730,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.887
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725404729,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.673000000000002
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725404742,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.554666666666668
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725404729,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.682666666666666
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725404737,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.684
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725404741,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 25.337
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725404737,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.972
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725404733,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.043666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725404735,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.573666666666664
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725404731,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.561
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725404740,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.151333333333337
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725404738,
+    "hops": 12,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.418
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725404739,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 51.92366666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725404740,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.7506666666666675
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725404732,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.453666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725404739,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.385666666666665
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725404734,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 34.13
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725411599,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.407
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725411745,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.038333333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725411744,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 42.18533333333334
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725411744,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.787666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725411748,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.650333333333332
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725411749,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 39.239333333333335
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725411736,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.214
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725411748,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.442
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725411744,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.5440000000000005
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725411813,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.051666666666666
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725411818,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.408
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725411935,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.554333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725411941,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.96633333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725411929,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 19.05033333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725411932,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.120666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725411942,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.735999999999999
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725411942,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.834666666666667
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725411942,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.09
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725411942,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 30.78
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725411931,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.932666666666667
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725411933,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.074
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725411929,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.442000000000004
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725411932,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.603333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725411938,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.975333333333335
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725411936,
+    "hops": 12,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.754
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725411941,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.172
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725411930,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.452333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725411930,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.413666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725411940,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.50433333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725411937,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 34.095
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725418807,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.4429999999999998
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725418945,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 72.49966666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725418943,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 42.044666666666664
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725418939,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.041
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725418945,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.00466666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725418941,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.233333333333334
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725418936,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.611666666666666
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725418943,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.583
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725418936,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.149
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725419018,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.954666666666668
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725419005,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.022
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725419134,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.934
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725419128,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.89633333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725419129,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.850333333333335
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725419139,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.579666666666668
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725419130,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.800000000000002
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725419134,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.980666666666668
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725419137,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.37466666666666
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725419137,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.523666666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725419134,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.81
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725419137,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.001333333333333
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725419128,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.599333333333334
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725419136,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.537
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725419141,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.764333333333337
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725419153,
+    "hops": 1,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul"
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725419136,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.395999999999994
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725419142,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.7093333333333334
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725419135,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.3566666666666665
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725419132,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.512
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725419138,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.115333333333336
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725426002,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.57
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725426138,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.976
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725426146,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 39.620666666666665
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725426145,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.549666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725426139,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.792333333333332
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725426145,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.212
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725426136,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.101333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725426146,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.453999999999999
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725426142,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.754333333333332
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725426212,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.865333333333334
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725426218,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.7286666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725426340,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.3340000000000005
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725426331,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 39.821
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725426329,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.218666666666666
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725426328,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.665999999999999
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725426328,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.595666666666666
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725426329,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.959666666666667
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725426336,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.928666666666665
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725426339,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.343666666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725426335,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.991
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725426332,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 9.994666666666665
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725426333,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.657666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725426329,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.899666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725426334,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.157
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725426340,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.651666666666664
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725426342,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.257666666666665
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725426333,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.706
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725426342,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.367000000000001
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725426337,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.355666666666668
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725426333,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 30.898333333333337
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725433208,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.293
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725433349,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 40.475
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725433338,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 44.723000000000006
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725433347,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.270666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725433348,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.521
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725433341,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.584999999999997
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725433348,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.706333333333335
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725433346,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.466333333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725433349,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.6290000000000004
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725433412,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.869333333333332
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725433406,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 559.4176666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725433534,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.445999999999999
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725433538,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.824333333333335
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725433532,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 14.667666666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725433537,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.557666666666668
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725433532,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.716333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725433538,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.149333333333335
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725433533,
+    "hops": 13,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.105999999999995
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725433534,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.81566666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725433537,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.874333333333333
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725433539,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.058666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725433535,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.813333333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725433537,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.619666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725433534,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.433000000000003
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725433538,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.32366666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725433529,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.312000000000005
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725433535,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.689
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725433531,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.435
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725433529,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.413333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725433538,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.732
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725440399,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.6713333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725440542,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 43.266333333333336
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725440546,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 38.655
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725440540,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 26.401666666666667
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725440540,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.312
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725440542,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.198333333333334
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725440541,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.479666666666667
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725440542,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.598333333333334
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725440540,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.987333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725440613,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 22.914
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725440609,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 572.1073333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725440737,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.7426666666666675
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725440729,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 71.028
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725440728,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 19.651666666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725440739,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.995666666666665
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725440729,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.563333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725440728,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.224
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725440738,
+    "hops": 12,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 53.7515
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725440742,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 24.12933333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725440739,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.833666666666667
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725440728,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.023333333333335
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725440739,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.586000000000002
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725440741,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.612333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725440734,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.312
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725440739,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.36066666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725440738,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 51.971
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725440742,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.816666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725440742,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.393999999999999
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725440738,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.31233333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725440729,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.647000000000002
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725447607,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.555
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725447739,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 45.592000000000006
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725447738,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 40.31033333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725447740,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.050666666666668
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725447737,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.557333333333332
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725447747,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.316333333333333
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725447735,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 12.152000000000001
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725447734,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.024333333333331
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725447742,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.5
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725447814,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.042333333333332
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725447817,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 567.6866666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725447928,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.675
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725447936,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.578
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725447928,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 19.041999999999998
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725447931,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.136000000000001
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725447935,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.684333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725447940,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 23.722333333333335
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725447937,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.3275
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725447938,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.888
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725447939,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 7.024666666666666
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725447940,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.159666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725447933,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.75033333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725447941,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.991333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725447940,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.811333333333334
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725447937,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 40.724333333333334
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725447931,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.06833333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725447940,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.770333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725447937,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.298666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725447935,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.344333333333335
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725447933,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.248
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725454803,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.39
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725454940,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.029666666666664
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725454935,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 39.108000000000004
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725454940,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.65233333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725454939,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.564000000000004
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725454942,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.284333333333336
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725454948,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.171999999999999
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725454939,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.335
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725454939,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.897333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725455017,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.868333333333332
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725455014,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 574.9113333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725455134,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.857
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725455133,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.948
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725455131,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.87033333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725455134,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.671
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725455131,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.516999999999998
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725455129,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.96466666666667
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725455136,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.333333333333336
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725455135,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 24.413666666666668
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725455137,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 7.0456666666666665
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725455133,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.054
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725455137,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.89066666666667
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725455135,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.997333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725455131,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.40833333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725455140,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.713
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725455140,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.20766666666666
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725455137,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.925333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725455132,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.589333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725455133,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.381333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725455128,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 30.444666666666667
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725462004,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.733999999999998
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725462139,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 41.24866666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725462135,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 39.297
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725462141,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 26.237666666666666
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725462139,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.400666666666666
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725462135,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.126333333333335
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725462145,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.915333333333335
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725462140,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.378
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725462138,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.351333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725462204,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 17.846333333333334
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725462209,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 617.805
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725462334,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.489666666666666
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725462332,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 71.31333333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725462331,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 19.012333333333334
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725462333,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.721666666666666
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725462336,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 11.153
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725462333,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.765333333333334
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725462341,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.76533333333333
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725462334,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.208333333333332
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725462338,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.971
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725462328,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.094333333333333
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725462335,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 20.61466666666667
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725462341,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.126666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725462337,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.014333333333337
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725462336,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 40.71033333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725462336,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.14266666666666
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725462341,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.769333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725462332,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.268999999999999
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725462329,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.333000000000002
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725462342,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.559666666666665
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725469204,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.5666666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725469337,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 43.81066666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725469341,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 57.034333333333336
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725469336,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 27.48
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725469339,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.852333333333334
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725469347,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.06866666666667
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725469342,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.681
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725469347,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.134666666666666
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725469346,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.686666666666667
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725469416,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.047
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725469415,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 559.5886666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725469541,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.368666666666667
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725469536,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 67.00966666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725469539,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.48166666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725469529,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.394333333333334
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725469537,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.680666666666667
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725469533,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.244333333333334
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725469533,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.69833333333333
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725469536,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.516333333333332
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725469528,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.947
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725469530,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.330333333333334
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725469542,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.714666666666666
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725469530,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.882333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725469533,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.13766666666667
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725469547,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 40.59233333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725469535,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.10999999999999
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725469537,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.502
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725469531,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.408666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725469537,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.365666666666666
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725469528,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.786333333333324
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725476403,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.566333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725476547,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 40.19266666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725476536,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 40.50333333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725476539,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 26.161666666666665
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725476548,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.71666666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725476535,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.042
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725476549,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.742333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725476538,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.115
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725476538,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 9.607999999999999
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725476616,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.898000000000001
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725476613,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 583.966
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725476739,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.359999999999999
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725476735,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 67.574
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725476741,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.776999999999997
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725476741,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.305333333333332
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725476737,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.957333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725476728,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 26.404
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725476733,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 50.12033333333333
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725476733,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.76533333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725476733,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 7.261333333333333
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725476741,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.250333333333332
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725476736,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.672666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725476733,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.842333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725476734,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.757333333333335
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725476737,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 40.645
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725476736,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.18933333333334
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725476741,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.682333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725476735,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.3629999999999995
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725476738,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.37033333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725476736,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 30.585333333333335
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725483598,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.4173333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725483738,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 56.50566666666666
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725483740,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 41.408
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725483736,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.634
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725483738,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.828666666666663
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725483746,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.284666666666666
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725483747,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.263
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725483737,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.164666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725483737,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.734000000000001
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725483804,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.143666666666665
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725483815,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 584.8496666666666
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725483935,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 8.267333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725483929,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 42.449666666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725483932,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 11.614666666666666
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725483929,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.885
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725483939,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.836333333333334
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725483932,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.305333333333333
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725483931,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.53766666666667
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725483938,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.75
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725483939,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.990333333333333
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725483933,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.090000000000002
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725483942,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.599999999999998
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725483928,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.962666666666665
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725483935,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 29.423000000000002
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725483938,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 40.75966666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725483938,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.93233333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725483936,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.795999999999999
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725483940,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.213666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725483939,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.546
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725483928,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.387666666666664
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725490805,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.5456666666666667
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725490935,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 42.53333333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725490949,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 39.324999999999996
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725490947,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.763
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725490941,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.453666666666663
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725490938,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.174000000000003
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725490949,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.050333333333334
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725490939,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.309666666666667
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725490941,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.373333333333334
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725491012,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.893666666666666
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725491013,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.1613333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725491137,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.241666666666667
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725491133,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.953
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725491131,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 19.103333333333335
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725491128,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.872
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725491136,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.586333333333334
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725491138,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.781000000000002
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725491140,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.086999999999996
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725491142,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.981666666666666
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725491137,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa"
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725491133,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.033
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725491134,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.716333333333335
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725491136,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.241333333333332
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725491136,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.160666666666668
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725491134,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.19833333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725491141,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.31333333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725491134,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa"
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725491133,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.323666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725491127,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.267666666666667
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725491132,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 30.298666666666666
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725497995,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.3556666666666668
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725498147,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 78.60066666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725498140,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 39.62866666666667
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725498144,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 23.595333333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725498148,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.784666666666666
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725498138,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.014
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725498138,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.093666666666666
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725498144,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.255333333333335
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725498142,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 7.949000000000001
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725498218,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.101
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725498213,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.2293333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725498342,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.337666666666667
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725498338,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 67.482
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725498328,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.842
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725498335,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.707333333333333
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725498342,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.581333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725498334,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.608666666666664
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725498336,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 51.7615
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725498332,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 30.908999999999995
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725498332,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.933
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725498332,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.047333333333334
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725498339,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.556666666666665
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725498336,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.965333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725498334,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 31.825333333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725498340,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.338
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725498328,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.23433333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725498330,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.569666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725498333,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.241
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725498342,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.427666666666667
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725498334,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.076333333333334
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725505207,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.547666666666665
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725505341,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.535666666666664
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725505345,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 43.69
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725505334,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.682666666666666
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725505340,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.612000000000005
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725505341,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.310999999999996
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725505347,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.089666666666668
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725505336,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.735
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725505347,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 22.176333333333332
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725505415,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.893666666666666
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725505416,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.4383333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725505532,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.735333333333333
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725505539,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 67.24900000000001
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725505529,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.89033333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725505535,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.719333333333333
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725505533,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.566333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725505541,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.16
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725505540,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.446000000000005
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725505529,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 24.10366666666667
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725505540,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.8436666666666675
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725505540,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.164
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725505535,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.456
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725505530,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.604666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725505541,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 28.362
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725505531,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 41.535000000000004
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725505532,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.11233333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725505535,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.728000000000001
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725505539,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.327333333333333
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725505530,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.305333333333333
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725505541,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.766333333333336
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725512400,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.676666666666666
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725512546,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 41.42966666666666
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725512535,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 39.208333333333336
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725512539,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.866666666666664
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725512549,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.512
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725512545,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.251
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725512543,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.143333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725512537,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.374666666666668
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725512549,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.438
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725512606,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.948333333333332
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725512604,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 559.8186666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725512736,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.577000000000001
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725512736,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.631
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725512734,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.885
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725512732,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.046666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725512728,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.588000000000001
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725512735,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.804000000000002
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725512730,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.809
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725512730,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.979666666666663
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725512739,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.905666666666666
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725512738,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.026666666666667
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725512728,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.706
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725512732,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.658999999999999
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725512735,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.276
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725512731,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.14333333333334
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725512734,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.26566666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725512742,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.675666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725512740,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.382000000000001
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725512728,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.455333333333332
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725512729,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 28.66633333333333
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725519598,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.60333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725519737,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 52.46266666666667
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725519742,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 43.285
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725519736,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.762333333333334
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725519754,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.192333333333334
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725519740,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.258666666666667
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725519738,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.964666666666666
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725519741,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.094
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725519748,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 5.950333333333333
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725519813,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.912666666666667
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725519811,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.3893333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725519938,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.313666666666666
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725519941,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 70.72433333333333
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725519932,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.828333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725519934,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.077666666666667
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725519940,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.610333333333333
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725519936,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.853333333333335
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725519936,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 46.757666666666665
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725519931,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.627666666666666
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725519934,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.884
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725519938,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.090000000000002
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725519928,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.548000000000002
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725519934,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.805333333333333
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725519934,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.394666666666666
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725519936,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 41.97933333333334
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725519933,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.11633333333333
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725519933,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.718666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725519942,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.325
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725519934,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.432666666666666
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725519931,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 29.608999999999998
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725526806,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.409
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725526944,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 44.638666666666666
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725526947,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 42.336000000000006
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725526938,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.822333333333333
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725526950,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 24.24666666666667
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725526947,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.325333333333333
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725526941,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.949
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725526948,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.237
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725526947,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.067
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725527012,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.14
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725527014,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.0043333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725527128,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.242666666666666
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725527127,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 40.95666666666667
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725527130,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.87366666666667
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725527134,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.073999999999998
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725527132,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.622
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725527134,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.052666666666667
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725527138,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 51.63
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725527135,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 23.142
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725527129,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 7.076666666666667
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725527142,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.130666666666666
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725527137,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.520666666666667
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725527138,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.947666666666667
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725527130,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.334999999999997
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725527132,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.21633333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725527128,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.27766666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725527135,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 2.716333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725527141,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.313
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725527137,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.355999999999998
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725527142,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.689666666666675
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725534007,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.453333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725534139,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 44.02199999999999
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725534139,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 39.627
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725534149,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.558000000000003
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725534140,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.100333333333328
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725534143,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.207333333333334
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725534135,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.706666666666669
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725534146,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.133333333333333
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725534137,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.708000000000001
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725534210,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.958333333333334
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725534206,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 559.8796666666667
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725534333,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.293333333333334
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725534331,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 71.03
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725534340,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.825333333333333
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725534329,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.220666666666668
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725534329,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.696666666666667
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725534340,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 27.072000000000003
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725534331,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.1815
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725534341,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 22.730999999999998
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725534340,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.937
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725534337,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.515333333333333
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725534335,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.800666666666668
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725534339,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.776333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725534334,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.896666666666665
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725534337,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 42.17633333333333
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725534341,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 50.06199999999999
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725534332,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.813666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725534330,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.417666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725534341,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.326000000000004
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725534338,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 33.38966666666667
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725541209,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 1.3103333333333333
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725541342,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 39.453
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725541338,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 39.74533333333333
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725541336,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 24.536333333333335
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725541353,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 23.717
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725541346,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.28933333333333
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725541345,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.263
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725541336,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 12.882
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725541342,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 6.687333333333332
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725541410,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 15.981666666666667
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725541406,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 560.0273333333333
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725541531,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.623
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725541539,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 41.07866666666666
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725541537,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.905333333333335
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725541537,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.860333333333331
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725541530,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.866333333333332
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725541538,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 25.668999999999997
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725541532,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 47.26766666666666
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725541532,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 24.077333333333332
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725541541,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.928333333333334
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725541535,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.355
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725541528,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.836
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725541542,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 10.157666666666666
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725541531,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 26.281333333333333
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725541534,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.501
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725541530,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.22666666666667
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725541538,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 6.608666666666667
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725541528,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.487666666666666
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725541534,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.349333333333334
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725541538,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 32.300333333333334
+  },
+  {
+    "prb_id": 7086,
+    "timestamp": 1725548405,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 17.454333333333334
+  },
+  {
+    "prb_id": 10555,
+    "timestamp": 1725548539,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 48.797333333333334
+  },
+  {
+    "prb_id": 1118,
+    "timestamp": 1725548544,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 41.724000000000004
+  },
+  {
+    "prb_id": 14065,
+    "timestamp": 1725548536,
+    "hops": 10,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 25.247666666666664
+  },
+  {
+    "prb_id": 50284,
+    "timestamp": 1725548538,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 25.567333333333334
+  },
+  {
+    "prb_id": 51527,
+    "timestamp": 1725548539,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.356333333333335
+  },
+  {
+    "prb_id": 53533,
+    "timestamp": 1725548543,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 8.995333333333333
+  },
+  {
+    "prb_id": 53808,
+    "timestamp": 1725548542,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 13.247
+  },
+  {
+    "prb_id": 61547,
+    "timestamp": 1725548547,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 16.815
+  },
+  {
+    "prb_id": 1005287,
+    "timestamp": 1725548617,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 16.087
+  },
+  {
+    "prb_id": 1006640,
+    "timestamp": 1725548606,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 559.6093333333334
+  },
+  {
+    "prb_id": 15253,
+    "timestamp": 1725548728,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 7.352666666666667
+  },
+  {
+    "prb_id": 19709,
+    "timestamp": 1725548731,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 71.11200000000001
+  },
+  {
+    "prb_id": 21614,
+    "timestamp": 1725548741,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 18.908
+  },
+  {
+    "prb_id": 22715,
+    "timestamp": 1725548737,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 11.077999999999998
+  },
+  {
+    "prb_id": 31427,
+    "timestamp": 1725548731,
+    "hops": 7,
+    "destination": "www.twitch.tv",
+    "country": "ES",
+    "continent": "Europa",
+    "rtt_destino": 10.94
+  },
+  {
+    "prb_id": 31453,
+    "timestamp": 1725548732,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 24.680333333333333
+  },
+  {
+    "prb_id": 32670,
+    "timestamp": 1725548741,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 48.72566666666666
+  },
+  {
+    "prb_id": 35786,
+    "timestamp": 1725548729,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 24.575333333333333
+  },
+  {
+    "prb_id": 51190,
+    "timestamp": 1725548738,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 7.055
+  },
+  {
+    "prb_id": 51404,
+    "timestamp": 1725548730,
+    "hops": 5,
+    "destination": "www.twitch.tv",
+    "country": "GB",
+    "continent": "Europa",
+    "rtt_destino": 10.566
+  },
+  {
+    "prb_id": 52123,
+    "timestamp": 1725548740,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CA",
+    "continent": "América do Norte",
+    "rtt_destino": 17.982333333333333
+  },
+  {
+    "prb_id": 53026,
+    "timestamp": 1725548742,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 9.637333333333334
+  },
+  {
+    "prb_id": 55026,
+    "timestamp": 1725548740,
+    "hops": 9,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 27.369333333333334
+  },
+  {
+    "prb_id": 55564,
+    "timestamp": 1725548744,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "BR",
+    "continent": "América do Sul",
+    "rtt_destino": 49.74266666666667
+  },
+  {
+    "prb_id": 60714,
+    "timestamp": 1725548737,
+    "hops": 11,
+    "destination": "www.twitch.tv",
+    "country": "MX",
+    "continent": "América do Norte",
+    "rtt_destino": 52.258333333333326
+  },
+  {
+    "prb_id": 61151,
+    "timestamp": 1725548738,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "PT",
+    "continent": "Europa",
+    "rtt_destino": 7.074333333333333
+  },
+  {
+    "prb_id": 61587,
+    "timestamp": 1725548733,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "AR",
+    "continent": "América do Sul",
+    "rtt_destino": 6.191666666666667
+  },
+  {
+    "prb_id": 62197,
+    "timestamp": 1725548733,
+    "hops": 8,
+    "destination": "www.twitch.tv",
+    "country": "US",
+    "continent": "América do Norte",
+    "rtt_destino": 18.437666666666665
+  },
+  {
+    "prb_id": 65443,
+    "timestamp": 1725548742,
+    "hops": 6,
+    "destination": "www.twitch.tv",
+    "country": "CL",
+    "continent": "América do Sul",
+    "rtt_destino": 31.64366666666667
+  }
+]
