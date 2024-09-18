@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Criar pasta para salvar os gráficos se ela não existir
-output_dir = 'graf_detalhado'
+output_dir = 'graficos_detalhados'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
