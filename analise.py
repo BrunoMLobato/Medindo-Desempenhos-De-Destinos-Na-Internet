@@ -1,102 +1,167 @@
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Carregar os dados do arquivo JSON com múltiplas entradas
-data = []
-with open(r'Medindo-Desempenhos-De-Destinos-Na-Internet\kick.json') as f:
-    for line in f:
-        try:
-            data.append(json.loads(line))
-        except json.JSONDecodeError as e:
-            print(f"Erro ao decodificar a linha: {e}")
-            continue
+# Carregar os dados dos arquivos JSON (Kick, YouTube, Twitch)
+with open(r'kick_probes.json') as f:
+    data_kick = json.load(f)
 
-# Função para extrair a latência e o número de saltos
-def process_trace(data):
+with open(r'youtube_probes.json') as f:
+    data_youtube = json.load(f)
+
+with open(r'twitch_probes.json') as f:
+    data_twitch = json.load(f)
+
+# Função para processar os dados, incluindo latência (rtt_destino), saltos, tempo e destino
+def process_data(data, service_name):
     trace_list = []
     for entry in data:
-        msm_id = entry.get('msm_id')
+        prb_id = entry.get('prb_id')
+        country = entry.get('country')
+        continent = entry.get('continent')
+        latency = entry.get('rtt_destino')  # Latência é 'rtt_destino'
+        hops = entry.get('hops')  # Número de saltos
+        destination = entry.get('destination')
         timestamp = entry.get('timestamp')
-        dst_name = entry.get('dst_name')
-        
-        # Verifica se há a chave 'result'
-        if 'result' in entry:
-            for result in entry['result']:
-                hop_count = len(result.get('result', []))
-                for hop in result.get('result', []):
-                    if 'rtt' in hop:
-                        rtt = hop['rtt']
-                        trace_list.append([msm_id, timestamp, dst_name, hop_count, rtt])
-                    else:
-                        trace_list.append([msm_id, timestamp, dst_name, hop_count, None])
-        else:
-            print(f"'result' não encontrado em entry: {entry}")
+        trace_list.append([prb_id, country, continent, destination, latency, hops, timestamp, service_name])
     return trace_list
 
-# Processar os dados de traceroute
-trace_data = process_trace(data)
+# Processar os dados de cada serviço
+data_kick_processed = process_data(data_kick, "Kick")
+data_youtube_processed = process_data(data_youtube, "YouTube")
+data_twitch_processed = process_data(data_twitch, "Twitch")
 
-# Criar DataFrame a partir dos dados processados
-df = pd.DataFrame(trace_data, columns=['msm_id', 'timestamp', 'dst_name', 'hop_count', 'rtt'])
+# Unir os dados de todos os serviços em um único DataFrame
+processed_data = data_kick_processed + data_youtube_processed + data_twitch_processed
+df = pd.DataFrame(processed_data, columns=['prb_id', 'country', 'continent', 'destination', 'latency', 'hops', 'timestamp', 'service'])
 
-# Converter timestamp para um formato de data legível
+# Converter os timestamps para o formato de data
 df['timestamp'] = pd.to_datetime(df['timestamp'], unit='s')
 
-# Filtrar dados sem latência
-df = df.dropna(subset=['rtt'])
+### LATÊNCIA ###
 
-# Calcular o intervalo de tempo entre o primeiro e o último timestamp
-min_timestamp = df['timestamp'].min()
-max_timestamp = df['timestamp'].max()
-
-# Exibir o intervalo de tempo
-print(f"Os dados estão sendo medidos entre {min_timestamp} e {max_timestamp}")
-print(f"Duração total da medição: {max_timestamp - min_timestamp}")
-
-# Agrupar por destino para análise
-grouped = df.groupby('dst_name')
-
-# Função para gerar gráficos de latência ao longo do tempo
-def plot_latency(grouped):
-    plt.figure(figsize=(10, 6))
-    for name, group in grouped:
-        plt.plot(group['timestamp'], group['rtt'], label=f'Destino: {name}')
+# Gráfico comparando a latência ao longo do tempo para cada destino
+def plot_latency_comparison(df):
+    plt.figure(figsize=(12, 8))
+    sns.lineplot(data=df, x='timestamp', y='latency', hue='destination', style='service', marker='o')
     plt.xlabel('Tempo')
     plt.ylabel('Latência (ms)')
-    plt.title('Latência ao longo do tempo por destino')
-    plt.legend()
-    plt.savefig(f'latencia_{name}.png')  # Salva o gráfico como um arquivo PNG
-    plt.close()  # Fecha o gráfico para evitar sobreposição
+    plt.title('Comparação da Latência ao Longo do Tempo para Todos os Destinos')
+    plt.legend(title='Destino', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('latency_comparison_destinations.png')
+    plt.show()
 
-# Função para gerar gráficos do número de saltos
-def plot_hops(grouped):
-    plt.figure(figsize=(10, 6))
-    for name, group in grouped:
-        plt.plot(group['timestamp'], group['hop_count'], label=f'Destino: {name}')
+# Gráfico agregando todas as probes e comparando latência por continente
+def plot_latency_by_continent(df):
+    plt.figure(figsize=(12, 8))
+    sns.lineplot(data=df, x='timestamp', y='latency', hue='continent', style='service', marker='o')
     plt.xlabel('Tempo')
-    plt.ylabel('Número de Saltos')
-    plt.title('Número de saltos ao longo do tempo por destino')
-    plt.legend()
-    plt.savefig(f'hops_{name}.png')  # Salva o gráfico como um arquivo PNG
-    plt.close()
+    plt.ylabel('Latência (ms)')
+    plt.title('Comparação de Latência por Continente para Todos os Destinos')
+    plt.legend(title='Continente', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('latency_by_continent.png')
+    plt.show()
 
-# Função para gerar gráfico de correlação entre latência e número de saltos com linha
-def plot_latency_hops_correlation(df):
-    plt.figure(figsize=(10, 6))
-    
-    # Agrupando por número de saltos e tirando a média de latência
-    grouped_correlation = df.groupby('hop_count')['rtt'].mean().reset_index()
-    
-    # Gerar gráfico de linha
-    plt.plot(grouped_correlation['hop_count'], grouped_correlation['rtt'], marker='o')
+# Gráfico agregando todas as probes e comparando latência por país
+def plot_latency_by_country(df):
+    plt.figure(figsize=(12, 8))
+    sns.lineplot(data=df, x='timestamp', y='latency', hue='country', style='service', marker='o')
+    plt.xlabel('Tempo')
+    plt.ylabel('Latência (ms)')
+    plt.title('Comparação de Latência por País para Todos os Destinos')
+    plt.legend(title='País', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('latency_by_country.png')
+    plt.show()
+
+### QUANTIDADE DE SALTOS ###
+
+# Gráfico comparando a quantidade de saltos ao longo do tempo para cada destino
+def plot_hops_comparison(df):
+    plt.figure(figsize=(12, 8))
+    sns.lineplot(data=df, x='timestamp', y='hops', hue='destination', style='service', marker='o')
+    plt.xlabel('Tempo')
+    plt.ylabel('Quantidade de Saltos')
+    plt.title('Comparação da Quantidade de Saltos ao Longo do Tempo para Todos os Destinos')
+    plt.legend(title='Destino', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('hops_comparison_destinations.png')
+    plt.show()
+
+# Gráfico agregando todas as probes e comparando quantidade de saltos por continente
+def plot_hops_by_continent(df):
+    plt.figure(figsize=(12, 8))
+    sns.lineplot(data=df, x='timestamp', y='hops', hue='continent', style='service', marker='o')
+    plt.xlabel('Tempo')
+    plt.ylabel('Quantidade de Saltos')
+    plt.title('Comparação da Quantidade de Saltos por Continente para Todos os Destinos')
+    plt.legend(title='Continente', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('hops_by_continent.png')
+    plt.show()
+
+# Gráfico agregando todas as probes e comparando quantidade de saltos por país
+def plot_hops_by_country(df):
+    plt.figure(figsize=(12, 8))
+    sns.lineplot(data=df, x='timestamp', y='hops', hue='country', style='service', marker='o')
+    plt.xlabel('Tempo')
+    plt.ylabel('Quantidade de Saltos')
+    plt.title('Comparação da Quantidade de Saltos por País para Todos os Destinos')
+    plt.legend(title='País', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('hops_by_country.png')
+    plt.show()
+
+### CORRELAÇÃO ENTRE LATÊNCIA E SALTOS ###
+
+# Gráfico de correlação entre latência e saltos por destino
+def plot_correlation_by_destination(df):
+    plt.figure(figsize=(12, 8))
+    sns.scatterplot(data=df, x='hops', y='latency', hue='destination', style='service', marker='o')
     plt.xlabel('Número de Saltos')
-    plt.ylabel('Latência Média (ms)')
-    plt.title('Correlação entre número de saltos e latência média')
-    plt.savefig('correlation_latency_hops.png')  # Salva o gráfico como um arquivo PNG
-    plt.close()
+    plt.ylabel('Latência (ms)')
+    plt.title('Correlação entre Latência e Saltos por Destino')
+    plt.legend(title='Destino', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('correlation_by_destination.png')
+    plt.show()
 
-# Chamar as funções para gerar os gráficos e salvar automaticamente
-plot_latency(grouped)
-plot_hops(grouped)
-plot_latency_hops_correlation(df)
+# Gráfico de correlação entre latência e saltos por continente
+def plot_correlation_by_continent(df):
+    plt.figure(figsize=(12, 8))
+    sns.scatterplot(data=df, x='hops', y='latency', hue='continent', style='service', marker='o')
+    plt.xlabel('Número de Saltos')
+    plt.ylabel('Latência (ms)')
+    plt.title('Correlação entre Latência e Saltos por Continente')
+    plt.legend(title='Continente', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('correlation_by_continent.png')
+    plt.show()
+
+# Gráfico de correlação entre latência e saltos por país
+def plot_correlation_by_country(df):
+    plt.figure(figsize=(12, 8))
+    sns.scatterplot(data=df, x='hops', y='latency', hue='country', style='service', marker='o')
+    plt.xlabel('Número de Saltos')
+    plt.ylabel('Latência (ms)')
+    plt.title('Correlação entre Latência e Saltos por País')
+    plt.legend(title='País', bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.tight_layout()
+    plt.savefig('correlation_by_country.png')
+    plt.show()
+
+### EXECUTAR OS GRÁFICOS ###
+
+# Chamadas das funções para gerar os gráficos
+plot_latency_comparison(df)
+plot_latency_by_continent(df)
+plot_latency_by_country(df)
+plot_hops_comparison(df)
+plot_hops_by_continent(df)
+plot_hops_by_country(df)
+plot_correlation_by_destination(df)
+plot_correlation_by_continent(df)
+plot_correlation_by_country(df)
