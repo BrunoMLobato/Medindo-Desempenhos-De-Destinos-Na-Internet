@@ -188,7 +188,7 @@ func updateJSONWithLocation(entries []OriginalData) []ProbeEntry {
 
 func main() {
 	// Carregar o arquivo JSON
-	file, err := os.Open("kick.json")
+	file, err := os.Open("twitch.json")
 	if err != nil {
 		fmt.Printf("Erro ao abrir o arquivo: %v\n", err)
 		return
@@ -214,7 +214,7 @@ func main() {
 		return
 	}
 
-	err = ioutil.WriteFile("kick_probes.json", updatedData, 0644)
+	err = ioutil.WriteFile("twitch_probes.json", updatedData, 0644)
 	if err != nil {
 		fmt.Printf("Erro ao salvar o arquivo atualizado: %v\n", err)
 		return
