@@ -1,4 +1,4 @@
-//a funcionalidade desse código é atualizar, organizar e formatar os dados das "probes" com informações sobre país, continente, hops, destino e RTT.
+//a funcionalidade desse código é atualizar, organizar e formatar os dados das "probes" com informações sobre países, continente, hops, destino e RTT.
 
 package main
 

@@ -69,7 +69,7 @@ def plot_probes_latency_by_site_individual(df, output_dir):
         plt.legend(title="País", bbox_to_anchor=(1.05, 1), loc='upper left')  # Colocar a legenda fora do gráfico
         plt.tight_layout()
         plt.savefig(os.path.join(output_dir, f'probes_latency_{service.lower()}.png'))
-        plt.show()
+        plt.close()  # Fechar a figura sem mostrar
 
 # 2. Países por site (latência e saltos)
 def plot_latency_hops_by_country_individual(df, output_dir):
@@ -88,7 +88,7 @@ def plot_latency_hops_by_country_individual(df, output_dir):
         plt.legend(title="País", bbox_to_anchor=(1.05, 1), loc='upper left')
         plt.tight_layout()
         plt.savefig(os.path.join(output_dir, f'latency_country_{service.lower()}.png'))
-        plt.show()
+        plt.close()
 
         # Saltos por país
         plt.figure(figsize=(16, 6))  # Ajuste horizontal
@@ -101,7 +101,7 @@ def plot_latency_hops_by_country_individual(df, output_dir):
         plt.legend(title="País", bbox_to_anchor=(1.05, 1), loc='upper left')
         plt.tight_layout()
         plt.savefig(os.path.join(output_dir, f'hops_country_{service.lower()}.png'))
-        plt.show()
+        plt.close()
 
 # 3. Continente por site (latência e saltos)
 def plot_latency_hops_by_continent_individual(df, output_dir):
@@ -120,7 +120,7 @@ def plot_latency_hops_by_continent_individual(df, output_dir):
         plt.legend(title="Continente", bbox_to_anchor=(1.05, 1), loc='upper left')
         plt.tight_layout()
         plt.savefig(os.path.join(output_dir, f'latency_continent_{service.lower()}.png'))
-        plt.show()
+        plt.close()
 
         # Saltos por continente
         plt.figure(figsize=(16, 6))  # Ajuste horizontal
@@ -133,7 +133,7 @@ def plot_latency_hops_by_continent_individual(df, output_dir):
         plt.legend(title="Continente", bbox_to_anchor=(1.05, 1), loc='upper left')
         plt.tight_layout()
         plt.savefig(os.path.join(output_dir, f'hops_continent_{service.lower()}.png'))
-        plt.show()
+        plt.close()
 
 # 4. Média geral por site (latência e saltos)
 def plot_avg_latency_hops_by_site(df, output_dir):
@@ -147,7 +147,7 @@ def plot_avg_latency_hops_by_site(df, output_dir):
     plt.title('Latência Média (RTT) por Site', fontsize=16)
     plt.tight_layout()
     plt.savefig(os.path.join(output_dir, 'avg_latency_by_site.png'))
-    plt.show()
+    plt.close()
 
     plt.figure(figsize=(16, 6))
     sns.barplot(x='service', y='hops', data=avg_df, palette='muted')
@@ -157,7 +157,7 @@ def plot_avg_latency_hops_by_site(df, output_dir):
     plt.title('Quantidade Média de Hops por Site', fontsize=16)
     plt.tight_layout()
     plt.savefig(os.path.join(output_dir, 'avg_hops_by_site.png'))
-    plt.show()
+    plt.close()
 
 ### EXECUTAR OS GRÁFICOS ###
 
